@@ -6,4 +6,3 @@ Pillow
 streamlit
 # tensorflow==1.12.0
 xgboost
-libgl1-mesa-glx
