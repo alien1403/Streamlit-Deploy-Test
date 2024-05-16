@@ -219,7 +219,7 @@ def preprocess_image_before_prediction(image):
     img_array = img_array / 255.0
     return img_array
 
-model_filename = "../xgboost_model.json"
+model_filename = "xgboost_model.json"
 model = xgb.XGBClassifier()
 model.load_model(model_filename)
 # model = keras.models.load_model('../brain_tumor_detection_model.h5')
