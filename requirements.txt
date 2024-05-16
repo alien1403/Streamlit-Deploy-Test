@@ -1,8 +1,7 @@
-joblib
-matplotlib
-numpy
-opencv_python
-Pillow
 streamlit
-# tensorflow==1.12.0
+opencv-python
+numpy
+Pillow
+joblib
 xgboost
+matplotlib
